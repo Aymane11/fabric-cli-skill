@@ -29,6 +29,11 @@ Requires Python ≥ 3.12. Works on Windows, macOS, and Linux.
 
 ## Authentication
 
+### Check auth status
+```bash
+fab auth status
+```
+
 ### Interactive (browser — recommended for local use)
 ```bash
 fab auth login
